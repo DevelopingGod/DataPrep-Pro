@@ -68,8 +68,7 @@ DataPrepPro/
 ```
 ---
 
-👤 Author
-Sankalp Indish
+# 👤 Author: Sankalp Indish
 
 LinkedIn: https://www.linkedin.com/in/sankalp-indish/
 
