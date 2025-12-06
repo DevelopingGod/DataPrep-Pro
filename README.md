@@ -65,6 +65,8 @@ DataPrepPro/
     ├── report.py            # HTML/PDF Generators
     ├── code_generator.py    # Python Script Generator
     └── __init__.py
+```
+---
 
 👤 Author
 Sankalp Indish
